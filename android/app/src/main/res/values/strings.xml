@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Farmway Dash</string>
+
+    <string name="brand_title">FARMWAY DASH</string>
+    <string name="brand_tagline">CROSS THE FARMWAY</string>
+    <string name="brand_tagline_splash">MIND THE TRAFFIC</string>
+    <string name="loading_caption">LOADING…</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_back">BACK</string>
+    <string name="cta_next">NEXT</string>
+    <string name="cta_levels">LEVELS</string>
+    <string name="cta_tutorial">TUTORIAL</string>
+    <string name="cta_missions">MISSIONS</string>
+    <string name="cta_collection">COLLECTION</string>
+    <string name="cta_rewards">REWARDS</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_cancel">KEEP MY FARM</string>
+    <string name="cta_reset_progress">RESET PROGRESS</string>
+    <string name="cta_reset_confirm">ERASE EVERYTHING</string>
+    <string name="cta_left">LEFT</string>
+    <string name="cta_right">RIGHT</string>
+    <string name="cta_hop">GO</string>
+    <string name="cta_claim">CLAIM</string>
+    <string name="cta_in_progress">IN PROGRESS</string>
+    <string name="cta_equip">EQUIP</string>
+    <string name="cta_equipped">EQUIPPED</string>
+    <string name="cta_unlock">UNLOCK %1$d</string>
+
+    <string name="stat_best">BEST</string>
+    <string name="stat_corn">CORN</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_stage">STAGE</string>
+    <string name="stat_badges">BADGES</string>
+    <string name="stat_chain">BEST CHAIN</string>
+
+    <string name="hud_route">ROUTE #%1$d</string>
+    <string name="hud_time">TIME %1$d</string>
+    <string name="hud_badges">BADGES %1$d/%2$d</string>
+    <string name="hud_chain">CHAIN x%1$d</string>
+    <string name="game_hint">LEFT OR RIGHT TO SWITCH LANE · BIG BUTTON CROSSES ONE LANE</string>
+    <string name="banner_rush">RUSH HOUR · FASTER ROAD</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_hint">The hens are waiting in the coop.</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_body">Stars, corn, cards and missions all go back to the first morning.</string>
+
+    <string name="result_flattened">FLATTENED!</string>
+    <string name="result_out_of_time">OUT OF TIME!</string>
+    <string name="result_barn_reached">BARN REACHED!</string>
+    <string name="result_subline">ROUTE #%1$d · STAGE %2$d %3$s</string>
+    <string name="result_new_best">NEW BEST %1$s</string>
+    <string name="result_new_card">NEW CARD</string>
+
+    <string name="level_locked_notice">CLEAR THE PREVIOUS STAGE TO UNLOCK</string>
+    <string name="level_detail">SPEED x%1$.2f · BADGES %2$d · BEST %3$s</string>
+
+    <string name="rewards_empty">EARN CORN BY SLIPPING PAST TRAFFIC</string>
+    <string name="rewards_disclaimer">CORN IS A VIRTUAL REWARD. NO REAL MONEY.</string>
+    <string name="rewards_need_more">NEED %1$d MORE</string>
+
+    <string name="collection_counter">%1$d / %2$d</string>
+    <string name="collection_empty">NO CARDS YET — COLLECT THREE BADGES OF ONE COLOUR IN A SINGLE CROSSING.</string>
+    <string name="collection_hidden">HIDDEN</string>
+
+    <string name="missions_empty">ALL MISSIONS CLEARED — NEW ROUTES COME WITH THE NEXT STAGE.</string>
+    <string name="mission_progress">%1$d / %2$d</string>
+    <string name="mission_reward">+%1$d CORN</string>
+
+    <string name="settings_control_side">CONTROL SIDE</string>
+    <string name="settings_right_handed">RIGHT HANDED</string>
+    <string name="settings_left_handed">LEFT HANDED</string>
+    <string name="settings_lane_guides">LANE GUIDES</string>
+    <string name="settings_lane_guides_hint">Column dividers and lane direction marks</string>
+    <string name="settings_hazard">HAZARD TELEGRAPH</string>
+    <string name="settings_hazard_hint">Edge pulse before a vehicle enters</string>
+    <string name="settings_reduce_motion">REDUCE MOTION</string>
+    <string name="settings_reduce_motion_hint">Stops decorative loops, keeps gameplay motion</string>
+    <string name="settings_footer">FARMWAY DASH · PLAYS OFFLINE · NO NETWORK</string>
+
+    <string name="state_locked">locked</string>
+    <string name="state_unlocked">unlocked</string>
+    <string name="state_equipped">equipped</string>
+    <string name="state_owned">owned</string>
+    <string name="state_complete">COMPLETE</string>
+    <string name="state_ready">ready to claim</string>
+    <string name="state_running">in progress</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="tutorial_title_road">THE ROAD</string>
+    <string name="tutorial_title_cross">CROSS</string>
+    <string name="tutorial_title_switch">SWITCH LANE</string>
+    <string name="tutorial_title_rhythm">READ THE RHYTHM</string>
+    <string name="tutorial_body_road">FIVE LANES LIE BETWEEN THE COOP AND THE BARN.</string>
+    <string name="tutorial_body_cross">PRESS THE BIG BUTTON TO CROSS ONE LANE.</string>
+    <string name="tutorial_body_switch">PRESS LEFT OR RIGHT TO MOVE ACROSS THE ROAD.</string>
+    <string name="tutorial_body_rhythm">CROSS RIGHT AFTER A TRUCK PASSES TO BUILD A CHAIN. COLLECT BADGES ON THE WAY.</string>
+
+    <string name="stage_dawn_pasture">DAWN PASTURE</string>
+    <string name="stage_hay_harvest">HAY HARVEST</string>
+    <string name="stage_market_run">MARKET RUN</string>
+    <string name="stage_dusty_crossroads">DUSTY CROSSROADS</string>
+    <string name="stage_storm_fields">STORM FIELDS</string>
+    <string name="stage_night_barn">NIGHT BARN</string>
+
+    <string name="set_dawn">DAWN SET</string>
+    <string name="set_harvest">HARVEST SET</string>
+    <string name="set_night">NIGHT SET</string>
+
+    <string name="card_morning_rooster">MORNING ROOSTER</string>
+    <string name="card_dew_fence">DEW FENCE</string>
+    <string name="card_first_light_barn">FIRST LIGHT BARN</string>
+    <string name="card_hay_stack">HAY STACK</string>
+    <string name="card_grain_truck">GRAIN TRUCK</string>
+    <string name="card_windmill">WINDMILL</string>
+    <string name="card_lantern_post">LANTERN POST</string>
+    <string name="card_moon_coop">MOON COOP</string>
+    <string name="card_owl_watch">OWL WATCH</string>
+
+    <string name="reward_straw_hat_hen">STRAW HAT HEN</string>
+    <string name="reward_dawn_feather">DAWN FEATHER</string>
+    <string name="reward_harvest_scarf">HARVEST SCARF</string>
+    <string name="reward_dusty_boots">DUSTY BOOTS</string>
+    <string name="reward_storm_crest">STORM CREST</string>
+    <string name="reward_night_lantern">NIGHT LANTERN</string>
+
+    <string name="reward_effect_straw_hat_hen">warm gold hen</string>
+    <string name="reward_effect_dawn_feather">pale dawn hen</string>
+    <string name="reward_effect_harvest_scarf">sage field hen</string>
+    <string name="reward_effect_dusty_boots">dusty trail hen</string>
+    <string name="reward_effect_storm_crest">storm blue hen</string>
+    <string name="reward_effect_night_lantern">lantern glow hen</string>
+
+    <string name="mission_badge_run">COLLECT 12 ROUTE BADGES</string>
+    <string name="mission_rhythm_six">REACH A RHYTHM CHAIN OF 6</string>
+    <string name="mission_triple_crossing">CLEAR 3 CROSSINGS IN ONE SESSION</string>
+    <string name="mission_spare_seconds">FINISH A CROSSING WITH 20 SECONDS LEFT</string>
+    <string name="mission_corn_purse">COLLECT 30 CORN</string>
+    <string name="mission_market_clear">CLEAR THE MARKET RUN STAGE</string>
+    <string name="mission_tight_squeeze">TAKE 5 NEAR MISSES IN ONE CROSSING</string>
+    <string name="mission_full_sweep">COLLECT ALL 3 BADGES IN ONE CROSSING</string>
+
+    <string name="cd_logo">Farmway Dash emblem</string>
+    <string name="cd_home">Menu</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_hen">Hen</string>
+    <string name="cd_truck">Grain truck</string>
+    <string name="cd_tractor">Tractor</string>
+    <string name="cd_badge">Route badge</string>
+</resources>
